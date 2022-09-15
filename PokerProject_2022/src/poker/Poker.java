@@ -18,6 +18,7 @@ public class Poker {
 	}
 	
 	// add a comment for test
+	// add a comment for second test
 
 	// Precondition: A hand of n cards have been sorted by card number.
 	public boolean isTwoPairs(String cards[], int n) {
